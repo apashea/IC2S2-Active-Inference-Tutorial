@@ -7,7 +7,7 @@ Landing page and repository for the 'Active Agents' tutorial held 17 July, 2024 
 
 ### Code/slides - live links (subject to modification)
 
-Slide presentation and follow-along:
+##### Slide presentation and follow-along:
 - https://docs.google.com/presentation/d/1gHAX-5Ughdd47oUDm2oQKYfgjEW5XkAnTXUdXQG-XXc/edit?usp=sharing
-Google Colab:
+##### Google Colab:
 - https://colab.research.google.com/drive/14oMDEByadHRGmZ8MFQvuc4iPnX522GsY?usp=sharing
