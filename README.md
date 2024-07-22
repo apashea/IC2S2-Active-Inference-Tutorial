@@ -13,9 +13,9 @@ In brief, this tutorial will cover:
   - False inference: ActInf does not (but can) focus on task-optimization. Optimality is defined relative to the agent: what might be "rational" to the agent may not be the optimal solution in the task. (Despite this "realism" ActInf models nonetheless are highly competitive in comparison to RL models)
   - ActInf's applications to social science, ranging beyond the neuronal to the human and beyond to the study of collective behavior
   - ActInf provides a theory of exploratory and exploitative behavior and "automatically" balances them by relating them in gradient descent over expected free energy as the function to be optimized
-- Single-agent inference: We build an Active Inference agent "from scratch" using the `pymdp` via the provided Google Colab script
+- Single-agent inference: We build an Active Inference agent "from scratch" using the `pymdp` package via the provided Google Colab script
   - The core ideas of ActInf are described and then directly applied.
-  - We cover how agents learn based on observations; inference with a single agent is demonstrated, including in code.
+  - We cover how agents infer learn based on observations and elicit actions based on the inference process; inference with a single agent is demonstrated, including in code with plots for the results.
 - Multi-Agent demonstration: We recreate a famous paradigm (Lazer & Friedman, 2007) for analyzing explore-exploit behavior in networks (and subnetworks) of $N$ agents
   - We can extract and plot the agents' performance- *and belief*-related metrics, providing further insights into this classic paradigm
   - The Google Colab script provides all of the relevant code, as well as options for further experimentation
