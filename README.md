@@ -8,7 +8,7 @@ In brief, this tutorial will cover:
   - RL lacks a *coherent* cognitive theory or empirical support for approximating *human* behavior, i.e. what social scientists aim to model. This is reasonable as most RL research advances are focused on task optimization, e.g., for building AI tools and bots.
   - RL's common issue of defining exploratory vs. exploitative behavior, for example epsilon-greedy as a performative yet *ad hoc* means of defining each.
 - Introduction to **Active Inference** (ActInf) as an established framework derived from cognitive/neuroscience with the explicit goal of cognitive modeling and approximating human behavior.
-  - ActInf provides what RL lacks in this case: foundations in the study of behavior in humans and biological organisms generally with empirical support for the assumptions it relies upon.
+  - ActInf provides what RL lacks in this case: foundations in the study of behavior in humans and biological organisms generally with empirical support for the assumptions it relies upon, e.g., neuronal dynamics, physiological substrates.
   - ActInf is explicitly a *beliefs-based framework*, well suited for the studying the relationship between *beliefs* and *behavior* with proxy parameters for interpretation of this relationship.
   - False inference: ActInf does not (but can) focus on task-optimization. Optimality is defined relative to the agent: what might be "rational" to the agent may not be the optimal solution in the task. (Despite this "realism" ActInf models nonetheless are highly competitive in comparison to RL models)
   - ActInf's applications to social science, ranging beyond the neuronal to the human and beyond to the study of collective behavior
