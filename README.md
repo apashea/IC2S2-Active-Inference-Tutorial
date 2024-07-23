@@ -5,7 +5,9 @@ __________________________
 <img src="https://github.com/apashea/IC2S2-Active-Inference-Tutorial/blob/main/Single-Agent%20Inference%20-%20Simulation%201.jpg?raw=true" width="640" height="360">
 __________________________
 <img src="https://github.com/apashea/IC2S2-Active-Inference-Tutorial/blob/main/Multi-Agent%20Inference%20-%20Simulation%201.jpg?raw=true" width="640" height="360">
+
 __________________________
+
 In brief, this tutorial will cover:
 - An overview of what is argued to be "traditional" rules-based Agent-Based Modeling (ABM) followed by a relatively recent shift towards "cognitive" modeling of agents with their own internal beliefs and mechanisms for autonomous action
 - Reinforcement Learning as a popular paradigm for approaching this cognitive turn in ABM: its principles, capacity for low computational costs, but also its limitations for cognitive modeling.
