@@ -3,7 +3,7 @@ Landing page and repository for the 'Active Agents' tutorial held 17 July, 2024 
 IC2S2 2024 Tutorials: https://ic2s2-2024.org/tutorials
 __________________________
 
-<img src="[https://github.com/favicon.ico](https://github.com/apashea/IC2S2-Active-Inference-Tutorial/blob/main/Single-Agent%20Inference%20-%20Simulation%201.jpg?raw=true)" width="4" height="4">
+<img src="[https://github.com/favicon.ico](https://github.com/apashea/IC2S2-Active-Inference-Tutorial/blob/main/Single-Agent%20Inference%20-%20Simulation%201.jpg?raw=true" width="4" height="4">
 
 ![](https://github.com/apashea/IC2S2-Active-Inference-Tutorial/blob/main/Single-Agent%20Inference%20-%20Simulation%201.jpg?raw=true =250x250)
 __________________________
