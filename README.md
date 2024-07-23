@@ -10,7 +10,7 @@ __________________________
 
 __________________________
 
-In brief, this tutorial will cover:
+### In brief, this tutorial will cover:
 - An overview of what is argued to be "traditional" rules-based Agent-Based Modeling (ABM) followed by a relatively recent shift towards "cognitive" modeling of agents with their own internal beliefs and mechanisms for autonomous action
 - Reinforcement Learning as a popular paradigm for approaching this cognitive turn in ABM: its principles, capacity for low computational costs, but also its limitations for cognitive modeling.
   - RL lacks a *coherent* cognitive theory or empirical support for approximating *human* behavior, i.e. what social scientists aim to model. This is reasonable as most RL research advances are focused on task optimization, e.g., for building AI tools and bots.
