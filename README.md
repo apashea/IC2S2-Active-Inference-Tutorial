@@ -23,10 +23,10 @@ __________________________
   - ActInf provides a theory of exploratory and exploitative behavior and "automatically" balances them by relating them in gradient descent over expected free energy as the function to be optimized
 - Single-agent inference: We build an Active Inference agent "from scratch" using the `pymdp` package via the provided Google Colab script
   - The core ideas of ActInf are described and then directly applied.
-  - We cover how agents infer learn based on observations and elicit actions based on the inference process; inference with a single agent is demonstrated, including in code with plots for the results.
+  - We cover how agents infer and learn based on observations and elicit actions based on the inference process; inference with a single agent is demonstrated, including in code with plots for the results.
 - Multi-Agent demonstration: We recreate a famous paradigm (Lazer & Friedman, 2007) for analyzing explore-exploit behavior in networks (and subnetworks) of $N$ agents
-  - We can extract and plot the agents' performance- *and belief*-related metrics, providing further insights into this classic paradigm
-  - The Google Colab script provides all of the relevant code, as well as options for further experimentation
+  - We look at two particular simulations (parameter configurations/sweeps) and then extract and plot the agents' performance- *and belief*-related metrics for comparison, providing further insights into this classic paradigm.
+  - The Google Colab script provides all of the relevant code, as well as options for further experimentation.
  
 *"The Network Structure of Exploration and Exploitation" (Lazer & Friedman 2007) https://ndg.asc.upenn.edu/wp-content/uploads/2016/04/Lazer-Friedman-2007-ASQ.pdf
 __________________________
