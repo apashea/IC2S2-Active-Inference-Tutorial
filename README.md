@@ -1,6 +1,7 @@
 # Active Agents: An Active Inference Approach to Agent-Based Modeling in the Social Sciences
 Landing page and repository for the 'Active Agents' tutorial held 17 July, 2024 at the 10th International Conference on Computational Social Science.
 IC2S2 2024 Tutorials: https://ic2s2-2024.org/tutorials
+**See below for links to slides + Colab script**
 __________________________
 <img src="https://github.com/apashea/IC2S2-Active-Inference-Tutorial/blob/main/Single-Agent%20Inference%20-%20Simulation%201.jpg?raw=true" width="640" height="360">
 
