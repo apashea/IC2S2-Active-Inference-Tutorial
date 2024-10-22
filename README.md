@@ -1,7 +1,20 @@
 # Active Agents: An Active Inference Approach to Agent-Based Modeling in the Social Sciences
 Landing page and repository for the 'Active Agents' tutorial held 17 July, 2024 at the 10th International Conference on Computational Social Science.
 IC2S2 2024 Tutorials: https://ic2s2-2024.org/tutorials
-**See below for links to slides + Colab script**
+__________________________
+### Code/slides - live links (subject to modification)
+
+##### Slide presentation and follow-along:
+- https://docs.google.com/presentation/d/1gHAX-5Ughdd47oUDm2oQKYfgjEW5XkAnTXUdXQG-XXc/edit?usp=sharing
+##### Google Colab - full IC2S2 script including agent construction, single-agent inference, and multi-agent simulations :
+- https://colab.research.google.com/drive/14oMDEByadHRGmZ8MFQvuc4iPnX522GsY?usp=sharing
+
+##### Code demonstration for constructing agents with clarifying Markdown instructional descriptions:
+https://colab.research.google.com/drive/1VWvwZFzQlNdL8w1X8UQ1VWNBESZ32_AW?usp=sharing
+__________________________
+### Instructions
+1. Open the Google Colab link below to open a read-only version of the tutorial code. With a valid GMail account, click `File` $\rightarrow$ `Save a copy in Drive` to save an editable copy.
+2. Click `Runtime` $\rightarrow$ `Run all` to run the code. The simulations near the end will take a bit of time to play out (two simulations, 30 generative models each, roughly 4-5 minutes total), so better to have these ready to go so that you can follow along smoothly!
 __________________________
 <img src="https://github.com/apashea/IC2S2-Active-Inference-Tutorial/blob/main/Single-Agent%20Inference%20-%20Simulation%201.jpg?raw=true" width="640" height="360">
 
@@ -32,15 +45,9 @@ __________________________
   - The Google Colab script provides all of the relevant code, as well as options for further experimentation.
  
 *"The Network Structure of Exploration and Exploitation" (Lazer & Friedman 2007) https://ndg.asc.upenn.edu/wp-content/uploads/2016/04/Lazer-Friedman-2007-ASQ.pdf
-__________________________
+
 ### Instructions
 1. Open the Google Colab link below to open a read-only version of the tutorial code. With a valid GMail account, click `File` $\rightarrow$ `Save a copy in Drive` to save an editable copy.
 2. Click `Runtime` $\rightarrow$ `Run all` to run the code. The simulations near the end will take a bit of time to play out (two simulations, 30 generative models each, roughly 4-5 minutes total), so better to have these ready to go so that you can follow along smoothly!
 
-__________________________
-### Code/slides - live links (subject to modification)
 
-##### Slide presentation and follow-along:
-- https://docs.google.com/presentation/d/1gHAX-5Ughdd47oUDm2oQKYfgjEW5XkAnTXUdXQG-XXc/edit?usp=sharing
-##### Google Colab:
-- https://colab.research.google.com/drive/14oMDEByadHRGmZ8MFQvuc4iPnX522GsY?usp=sharing
