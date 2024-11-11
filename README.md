@@ -6,8 +6,10 @@ This page is being expanded over time as I continue to develop and deliver instr
 #### Landing page and repository for the 'Active Agents' tutorial held 17 July, 2024 at the 10th International Conference on Computational Social Science.
 - IC2S2 2024 Tutorials: https://ic2s2-2024.org/tutorials
 - Slideshow presentation and follow-along: https://docs.google.com/presentation/d/1gHAX-5Ughdd47oUDm2oQKYfgjEW5XkAnTXUdXQG-XXc/edit?usp=sharing
+
 - Google Colab in-brower code - full IC2S2 script including agent construction, single-agent inference, and multi-agent simulations: https://colab.research.google.com/drive/14oMDEByadHRGmZ8MFQvuc4iPnX522GsY?usp=sharing
-  - 
+
+ 
 #### "ActInf ModelStream 015.0: Andrew Pashea 'Active Agents: Agent-Based Modeling in the Social Sciences'": Livestreamed talk with the Active Inference Institute discussing the basic mechanics and code for developing POMDP Active Inference agents using the `pymdp` library
 - Code demonstration for constructing agents with clarifying Markdown instructional descriptions: https://colab.research.google.com/drive/1VWvwZFzQlNdL8w1X8UQ1VWNBESZ32_AW?usp=sharing
 - Livestream link: https://www.youtube.com/watch?v=wAd-ARzquj8
