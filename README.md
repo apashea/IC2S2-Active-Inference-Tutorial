@@ -1,17 +1,23 @@
 # Active Agents: An Active Inference Approach to Agent-Based Modeling in the Social Sciences
-Landing page and repository for the 'Active Agents' tutorial held 17 July, 2024 at the 10th International Conference on Computational Social Science.
+
+
+### This tutorial is being expanded over time as I continue to develop and deliver instructional materials for the Active Inference Institute: https://www.activeinference.institute/
+
+### Presentations and Resources:
+
+#### Landing page and repository for the 'Active Agents' tutorial held 17 July, 2024 at the 10th International Conference on Computational Social Science.
 IC2S2 2024 Tutorials: https://ic2s2-2024.org/tutorials
+  - Slideshow presentation and follow-along: https://docs.google.com/presentation/d/1gHAX-5Ughdd47oUDm2oQKYfgjEW5XkAnTXUdXQG-XXc/edit?usp=sharing
+  - Google Colab in-brower code - full IC2S2 script including agent construction, single-agent inference, and multi-agent simulations: https://colab.research.google.com/drive/14oMDEByadHRGmZ8MFQvuc4iPnX522GsY?usp=sharing
+  - 
+#### "ActInf ModelStream 015.0: Andrew Pashea 'Active Agents: Agent-Based Modeling in the Social Sciences'": Livestreamed talk with the Active Inference Institute discussing the basic mechanics and code for developing POMDP Active Inference agents using the `pymdp` library
+- Code demonstration for constructing agents with clarifying Markdown instructional descriptions: https://colab.research.google.com/drive/1VWvwZFzQlNdL8w1X8UQ1VWNBESZ32_AW?usp=sharing
+- Livestream link: https://www.youtube.com/watch?v=wAd-ARzquj8
 
-This tutorial is being expanded over time as I continue to develop instructional materials for the Active Inference Institute: https://www.activeinference.institute/
-__________________________
-### Code/slides - live links (subject to modification)
-
-##### IC2S2 Slide presentation and follow-along:
-- https://docs.google.com/presentation/d/1gHAX-5Ughdd47oUDm2oQKYfgjEW5XkAnTXUdXQG-XXc/edit?usp=sharing
-##### Google Colab in-brower code - full IC2S2 script including agent construction, single-agent inference, and multi-agent simulations :
-- https://colab.research.google.com/drive/14oMDEByadHRGmZ8MFQvuc4iPnX522GsY?usp=sharing
-##### Google Colab in-browser - code demonstration for constructing agents with clarifying Markdown instructional descriptions:
-- https://colab.research.google.com/drive/1VWvwZFzQlNdL8w1X8UQ1VWNBESZ32_AW?usp=sharing
+#### Applied Active Inference Symposium ~ 2024 
+- Main website: symposium.activeinference.institute
+- Slideshow presentation: https://docs.google.com/presentation/d/10ojJpwuVfuk7N0eMx0-ksN0BLPGgaO79I6e2B_H1ir4/edit?usp=sharing
+  
 __________________________
 ### Instructions for Google Colab links
 1. Open the Google Colab links to open a read-only version of the corresponding code. With a valid Google account, click `File` $\rightarrow$ `Save a copy in Drive` to save an editable copy.
@@ -25,7 +31,7 @@ __________________________
 
 __________________________
 
-### In brief, this tutorial will cover:
+### IC2S2: In brief, this tutorial will cover:
 - An overview of what is argued to be "traditional" rules-based Agent-Based Modeling (ABM) followed by a relatively recent shift towards "cognitive" modeling of agents with their own internal beliefs and mechanisms for autonomous action, e.g., action, perception, decision-making, planning, learning.
   - Autonomous agents and micro-level assumptions: Calls for "cognitive" modeling center on introducing more empirically-supportable realism to the assumptions made about agents at the micro-level. "Traditional" agents' simplicity of hard-coded conditional decision-making ('if X then do Y, else do Z', lacking flexibility and cognitive or memory mechanisms) sacrifices autonomy and direct connection to human *natural intelligence* -- in caricature, a level of simplicity which produces pre-programmed robots. On the other hand, incorporating research in cognitive/neuroscience, physics, and other fields combined with methods of mathematical formalization and modeling provides methods for coding agents in ABM settings as *autonomous and forward-looking generative agents* with interpretable parameters and behavioral outcomes.
   - Scientifically-informed policy design with a beliefs-based framework: Cognitive, autonomous agents with their own *mechanisms for  action, perception, decision-making, and planning*, guided in part by their own (internal representations of) *beliefs* expands possibilities for *policy, intervention design, and research methodology* expressly targeting beliefs and behavior, e.g., fostering students' sense of personal efficacy, mitigating financial overconfidence, or disincentivizing self-harming behaviors. Composing agents equipped with these cognitive mechanisms approximates the *natural intelligence* of humans, such that experimental simulations for counterfactual testing and modeling better approximate our social and physical reality.
