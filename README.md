@@ -16,6 +16,7 @@ This page is being expanded over time as I continue to develop and deliver instr
 
 ## Applied Active Inference Symposium ~ 2024 
 - Main website: [symposium.activeinference.institute](symposium.activeinference.institute)
+- **Workshop 1**: Basics of Active Inference [Slideshow (IC2S2 tutorial)](https://docs.google.com/presentation/d/1gHAX-5Ughdd47oUDm2oQKYfgjEW5XkAnTXUdXQG-XXc/edit?usp=sharing)
 - [Slideshow presentation (under construction, revisions to include Biofirm updates in-progress)](https://docs.google.com/presentation/d/10ojJpwuVfuk7N0eMx0-ksN0BLPGgaO79I6e2B_H1ir4/edit?usp=sharing)
   
 __________________________
