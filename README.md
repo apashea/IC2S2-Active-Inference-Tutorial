@@ -16,8 +16,15 @@ This page is being expanded over time as I continue to develop and deliver instr
 
 ## Applied Active Inference Symposium ~ 2024 
 - Main website: [symposium.activeinference.institute](symposium.activeinference.institute)
-- **Workshop 1**: Basics of Active Inference [Slideshow (IC2S2 tutorial)](https://docs.google.com/presentation/d/1gHAX-5Ughdd47oUDm2oQKYfgjEW5XkAnTXUdXQG-XXc/edit?usp=sharing)
+### **Workshop 1**: Basics from ABM to Active Inference & Agentic Frameworks
+- Basics of Active Inference [Slideshow (IC2S2 tutorial)](https://docs.google.com/presentation/d/1gHAX-5Ughdd47oUDm2oQKYfgjEW5XkAnTXUdXQG-XXc/edit?usp=sharing)
+- Symposium Recording: Dr. John Clippinger's introduction, "Why Active Inference Agents?", as lead up to my talk: [Video Link (auto-play at 2:59:53)](https://www.youtube.com/watch?v=cIBIecj7UZE&t=179m53s)
+- Symposium Recording: My refresher over Active Inference and Agent-Based Modelling Principles: [Video Link (auto-play at 3:13:00)](https://www.youtube.com/watch?v=cIBIecj7UZE&t=193m00s)
 - [Slideshow presentation (under construction, revisions to include Biofirm updates in-progress)](https://docs.google.com/presentation/d/10ojJpwuVfuk7N0eMx0-ksN0BLPGgaO79I6e2B_H1ir4/edit?usp=sharing)
+### **Workshop 2**: From "Homo Economicus Revised" (utility to free energy) to augmenting Active Inference agents with natural language to Biofirm (Design Principles, Knowledge Graphs, NESS, "Solving the Commons")
+- Symposium Recording: Dr. John Clippinger's introduction to our work, "Active Inference: Biofirm Homeostatic Agents for Bioregional Regenerative Finance": Video Link (auto-play at 9:02:55)[https://www.youtube.com/watch?v=nCZZBuk_wmU&t=542m55s]
+- Symposium Recording: My presentation "Active Inference as a Framework for Social Science Agent-Based Modeling, Featuring 'Biofirm' Updates -- Design, Principles, Development" [Video Link (auto-play at 9:21:52)](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=561m52s)
+
   
 __________________________
 ### Instructions for Google Colab links
