@@ -25,11 +25,12 @@ ____________________
 - Symposium Recording: Dr. John Clippinger's introduction to our work, "Active Inference: Biofirm Homeostatic Agents for Bioregional Regenerative Finance": Video Link (auto-play at 9:02:55)[https://www.youtube.com/watch?v=nCZZBuk_wmU&t=542m55s]
 - Symposium Recording: My presentation "Active Inference as a Framework for Social Science Agent-Based Modeling, Featuring 'Biofirm' Updates -- Design, Principles, Development" [Video Link (auto-play at 9:21:52)](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=561m52s)
 - Video presentation -- Jump to:
- - 9:21:52 - [Introduction, Presentation Outline, What is ABM](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=561m52s)
- - 9:36:42 - ["Homo Economicus Revised": From Pre-Programmed Utility-Maximizers to Biomimetically- and Cognitively-Informed Free Energy Minimizing Active Inference Agents via the FEP; ActInf Framework; POMDP as exemplar discrete state-space model](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=576m42s)
- - 9:52:00 - [Select Examples of Multi-Agent Simulations (Active Inference, RL)]([https://www.youtube.com/watch?v=nCZZBuk_wmU&t=5m42s](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=592m00s))
- - 9:57:20 - [ABM & Natural Language: LLMs as "Agents"?, Centrality of Prompts, Limitations (Short- and Long-Term Memory, Confabulation, Mathematical & Symbolic Logic, Prompt Engineering, Pre-Structured Prompts (Meta-Prompting) & Software Engineering)](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=597m20s)
- - 10:11:12 - [Grounding LLMs: Augmenting Agents with Natural Language, Design Blueprint for POMDPs with sensory receptors to receive LLM-based observations](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=611m12s)
+  - 9:21:52 - [Introduction, Presentation Outline, What is ABM](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=561m52s)
+  - 9:36:42 - ["Homo Economicus Revised": From Pre-Programmed Utility-Maximizers to Biomimetically- and Cognitively-Informed Free Energy Minimizing Active Inference Agents via the FEP; ActInf Framework; POMDP as exemplar discrete state-space model](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=576m42s)
+  - 9:52:00 - [Select Examples of Multi-Agent Simulations (Active Inference, RL)]([https://www.youtube.com/watch?v=nCZZBuk_wmU&t=5m42s](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=592m00s))
+  - 9:57:20 - [ABM & Natural Language: LLMs as "Agents"?, Centrality of Prompts, Limitations (Short- and Long-Term Memory, Confabulation, Mathematical & Symbolic Logic, Prompt Engineering, Pre-Structured Prompts (Meta-Prompting) & Software Engineering)](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=597m20s)
+  - 10:11:12 - [Grounding LLMs: Augmenting Agents with Natural Language, Design Blueprint for POMDPs with sensory receptors to receive LLM-based observations](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=611m12s)
+
 ____________________
   
 __________________________
