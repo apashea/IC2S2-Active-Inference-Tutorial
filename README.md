@@ -9,11 +9,11 @@ This page is being expanded over time as I continue to develop and deliver instr
 
 - [Google Colab in-brower code for single-agent and multi-agent simulations](https://colab.research.google.com/drive/14oMDEByadHRGmZ8MFQvuc4iPnX522GsY?usp=sharing)
 
- 
+____________________
 ## "ActInf ModelStream 015.0: Andrew Pashea 'Active Agents: Agent-Based Modeling in the Social Sciences'": Livestreamed talk with the Active Inference Institute discussing the basic mechanics and code for developing POMDP Active Inference agents using the `pymdp` library
 - [Code demonstration for constructing agents with clarifying Markdown instructional descriptions](https://colab.research.google.com/drive/1VWvwZFzQlNdL8w1X8UQ1VWNBESZ32_AW?usp=sharing)
 - [Livestream link (YouTube, hosted by Active Inference Institute](https://www.youtube.com/watch?v=wAd-ARzquj8)
-
+____________________
 ## Applied Active Inference Symposium ~ 2024 
 - Main website: [symposium.activeinference.institute](symposium.activeinference.institute)
 ### **Workshop 1**: Basics from ABM to Active Inference & Agentic Frameworks
@@ -24,7 +24,13 @@ This page is being expanded over time as I continue to develop and deliver instr
 ### **Workshop 2**: From "Homo Economicus Revised" (utility to free energy) to augmenting Active Inference agents with natural language to Biofirm (Design Principles, Knowledge Graphs, NESS, "Solving the Commons")
 - Symposium Recording: Dr. John Clippinger's introduction to our work, "Active Inference: Biofirm Homeostatic Agents for Bioregional Regenerative Finance": Video Link (auto-play at 9:02:55)[https://www.youtube.com/watch?v=nCZZBuk_wmU&t=542m55s]
 - Symposium Recording: My presentation "Active Inference as a Framework for Social Science Agent-Based Modeling, Featuring 'Biofirm' Updates -- Design, Principles, Development" [Video Link (auto-play at 9:21:52)](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=561m52s)
-
+- Video presentation -- Jump to:
+ - 9:21:52 - [Introduction, Presentation Outline, What is ABM](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=561m52s)
+ - 9:36:42 - ["Homo Economicus Revised": From Pre-Programmed Utility-Maximizers to Biomimetically- and Cognitively-Informed Free Energy Minimizing Active Inference Agents via the FEP; ActInf Framework; POMDP as exemplar discrete state-space model](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=576m42s)
+ - 9:52:00 - [Select Examples of Multi-Agent Simulations (Active Inference, RL)]([https://www.youtube.com/watch?v=nCZZBuk_wmU&t=5m42s](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=592m00s))
+ - 9:57:20 - [ABM & Natural Language: LLMs as "Agents"?, Centrality of Prompts, Limitations (Short- and Long-Term Memory, Confabulation, Mathematical & Symbolic Logic, Prompt Engineering, Pre-Structured Prompts (Meta-Prompting) & Software Engineering)](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=597m20s)
+ - 10:11:12 - [Grounding LLMs: Augmenting Agents with Natural Language, Design Blueprint for POMDPs with sensory receptors to receive LLM-based observations](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=611m12s)
+____________________
   
 __________________________
 ### Instructions for Google Colab links
