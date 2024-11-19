@@ -29,7 +29,11 @@ ____________________
   - 9:36:42 - ["Homo Economicus Revised": From Pre-Programmed Utility-Maximizers to Biomimetically- and Cognitively-Informed Free Energy Minimizing Active Inference Agents via the FEP; ActInf Framework; POMDP as exemplar discrete state-space model](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=576m42s)
   - 9:52:00 - [Select Examples of Multi-Agent Simulations (Active Inference, RL)]([https://www.youtube.com/watch?v=nCZZBuk_wmU&t=5m42s](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=592m00s))
   - 9:57:20 - [ABM & Natural Language: LLMs as "Agents"?, Centrality of Prompts, Limitations (Short- and Long-Term Memory, Confabulation, Mathematical & Symbolic Logic, Prompt Engineering, Pre-Structured Prompts (Meta-Prompting) & Software Engineering)](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=597m20s)
-  - 10:11:12 - [Grounding LLMs: Augmenting Agents with Natural Language, Design Blueprint for POMDPs with sensory receptors to receive LLM-based observations](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=611m12s)
+  - 10:11:12 - [Grounding LLMs: Augmenting Agents with Natural Language, Design Blueprint for POMDPs with sensory receptors to receive LLM-based observations, User (documents/prompts) to LLM to Agent](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=611m12s)
+  - 10:15:50 - [Knowledge Graphs as Local Cultural Evolution, Agent Foraging & Contributing To / Pulling From Knowledge Graph](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=615m50s)
+  - 10:29:10 - [Biofirm: Introduction to Development, Multi-Agents and Vision, Auto-Generating Environments, "Kernel" Homeostatic Agent, Elinor Ostrom and Governing the Commons](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=629m10s)
+  - 10:59:12 - [Biofirm for Users, Structured Prompts for Synthesizing Strategic Reports on (many!) Bioregions](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=659m12s)
+
 
 ____________________
   
