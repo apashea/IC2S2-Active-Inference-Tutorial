@@ -24,6 +24,7 @@ ____________________
 ### **Workshop 2**: From "Homo Economicus Revised" (utility to free energy) to augmenting Active Inference agents with natural language to Biofirm (Design Principles, Knowledge Graphs, NESS, "Solving the Commons")
 - Symposium Recording: Dr. John Clippinger's introduction to our work, "Active Inference: Biofirm Homeostatic Agents for Bioregional Regenerative Finance": Video Link (auto-play at 9:02:55)[https://www.youtube.com/watch?v=nCZZBuk_wmU&t=542m55s]
 - Symposium Recording: My presentation "Active Inference as a Framework for Social Science Agent-Based Modeling, Featuring 'Biofirm' Updates -- Design, Principles, Development" [Video Link (auto-play at 9:21:52)](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=561m52s)
+- **Slides:** [Goodle Slides](https://docs.google.com/presentation/d/10ojJpwuVfuk7N0eMx0-ksN0BLPGgaO79I6e2B_H1ir4/edit?usp=sharing)
 - Video presentation -- Jump to:
   - 9:21:52 - [Introduction, Presentation Outline, What is ABM](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=561m52s)
   - 9:36:42 - ["Homo Economicus Revised": From Pre-Programmed Utility-Maximizers to Biomimetically- and Cognitively-Informed Free Energy Minimizing Active Inference Agents via the FEP; ActInf Framework; POMDP as exemplar discrete state-space model](https://www.youtube.com/watch?v=nCZZBuk_wmU&t=576m42s)
