@@ -1,1 +1,2 @@
-These slides were prepared by Andrew Pashea
+- These slides were produced by Andrew Pashea
+- Citations to images and materials in slide visuals + speaker notes
